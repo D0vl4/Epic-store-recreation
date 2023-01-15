@@ -19,6 +19,7 @@ body {
   height: 100%;
   display: flex;
   align-items: center;
+  justify-content: center;
   padding: 4rem;
   background-color: var(--white);
 }
@@ -29,7 +30,7 @@ aside {
   justify-content: center;
   align-items: center;
   gap: 1rem;
-  min-width: 85%;
+  min-width: 65%;
   height: 100%;
 }
 
