@@ -1,4 +1,4 @@
-# Epic store page recreation
+# Epic store page recreation 🛒
 
 Hello! 👋🏻
 
