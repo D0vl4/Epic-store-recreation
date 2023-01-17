@@ -2,7 +2,6 @@
 
 Hello! 👋🏻
 
-This is my way of recreation the last step of the Epic store page.
-I used HTML and CSS Flexbox model.
+I recreated the final step of the Epic Store page using the HTML and CSS Flexbox model as a form of recreation.
 
 This small project was very fun to work on 🤠
